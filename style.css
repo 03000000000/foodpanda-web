@@ -1,0 +1,375 @@
+
+*{
+overflow-x: hidden;
+
+}
+.line{
+max-width: 600px;
+height: 80px;
+background-color: white;
+
+border-radius: 30px;
+margin-left: 90px;
+}
+
+.main1{
+background-color: #eeeeee;
+width: 100%;
+height: 500px;
+display: flex;
+justify-content: space-between;
+}
+
+.mainhead{
+
+    width: 800px;
+    height: 500px;
+}
+.img1{
+    width: 320px;
+    height: 500px;
+}
+
+.heading{
+max-width: 600px;
+min-height: 100px;
+margin-top: 100px;
+margin-left: 100px;
+}
+
+.main2{
+overflow-y: hidden;
+    min-height: 1500px;
+    width: 100%;
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.card1{
+    position: relative;
+width: 300px;
+height: 250px;
+
+border-radius: 20px;
+overflow-y: hidden;
+}
+
+.card1 img{
+    transition: all ease 0.8s;
+}
+.card1 img:hover{
+    transform: scale(1.2);
+}
+.card2 img{
+    transition: all ease 0.8s;
+}
+.card2 img:hover{
+    transform: scale(1.2);
+}
+.card3 img{
+    transition: all ease 0.8s;
+}
+.card3 img:hover{
+    transform: scale(1.2);
+}
+.card4 img{
+    transition: all ease 0.8s;
+}
+.card4 img:hover{
+    transform: scale(1.2);
+}
+.card5 img{
+    transition: all ease 0.8s;
+}
+.card5 img:hover{
+    transform: scale(1.2);
+}
+.card6 img{
+    transition: all ease 0.8s;
+}
+.card6 img:hover{
+    transform: scale(1.2);
+}
+.card7 img{
+    transition: all ease 0.8s;
+}
+.card7 img:hover{
+    transform: scale(1.2);
+}
+.card8 img{
+    transition: all ease 0.8s;
+}
+.card8 img:hover{
+    transform: scale(1.2);
+}
+.card9 img{
+    transition: all ease 0.8s;
+}
+.card9 img:hover{
+    transform: scale(1.2);
+}
+.card10 img{
+    transition: all ease 0.8s;
+}
+.card10 img:hover{
+    transform: scale(1.2);
+}
+.card11 img{
+    transition: all ease 0.8s;
+}
+.card11 img:hover{
+    transform: scale(1.2);
+}
+.card12 img{
+    transition: all ease 0.8s;
+}
+.card12 img:hover{
+    transform: scale(1.2);
+}
+.card13 img{
+    transition: all ease 0.8s;
+}
+.card13 img:hover{
+    transform: scale(1.2);
+}
+.card14 img{
+    transition: all ease 0.8s;
+}
+.card14 img:hover{
+    transform: scale(1.2);
+}
+.card15 img{
+    transition: all ease 0.8s;
+}
+.card15 img:hover{
+    transform: scale(1.2);
+}
+.card16 img{
+    transition: all ease 0.8s;
+}
+.card16 img:hover{
+    transform: scale(1.2);
+}
+.card17 img{
+    transition: all ease 0.8s;
+}
+.card17 img:hover{
+    transform: scale(1.2);
+}
+.card18 img{
+    transition: all ease 0.8s;
+}
+.card18 img:hover{
+    transform: scale(1.2);
+}
+.card20 img{
+    transition: all ease 0.8s;
+}
+.card20 img:hover{
+    transform: scale(1.2);
+}
+.card21 img{
+    transition: all ease 0.8s;
+}
+.card21 img:hover{
+    transform: scale(1.2);
+}
+.card2{
+    position: relative;
+width: 300px;
+height: 250px;
+border-radius: 20px;
+overflow-y: hidden;
+}
+
+.card3{
+    position: relative;
+width: 300px;
+height: 250px;
+border-radius: 20px;
+overflow-y: hidden;
+}
+.card4{
+    position: relative;
+width: 300px;
+height: 250px;
+border-radius: 20px;
+overflow-y: hidden;
+}
+.card5{
+    position: relative;
+width: 300px;
+height: 250px;
+border-radius: 20px;
+overflow-y: hidden;
+}
+.card6{
+    position: relative;
+width: 300px;
+height: 250px;
+border-radius: 20px;
+overflow-y: hidden;
+}
+.card7{
+    position: relative;
+width: 300px;
+height: 250px;
+border-radius: 20px;
+overflow-y: hidden;
+}
+.card8{
+    position: relative;
+width: 300px;
+height: 250px;
+border-radius: 20px;
+overflow-y: hidden;
+}
+.card9{
+    position: relative;
+width: 300px;
+height: 250px;
+border-radius: 20px;
+overflow-y: hidden;
+}
+.card10{
+    position: relative;
+width: 300px;
+height: 250px;
+border-radius: 20px;
+overflow-y: hidden;
+}
+.card11{
+    position: relative;
+width: 300px;
+height: 250px;
+border-radius: 20px;
+overflow-y: hidden;
+}
+.card12{
+    position: relative;
+width: 300px;
+height: 250px;
+border-radius: 20px;
+overflow-y: hidden;
+}
+.card13{
+    position: relative;
+width: 300px;
+height: 250px;
+border-radius: 20px;
+overflow-y: hidden;
+}
+.card14{
+    position: relative;
+width: 300px;
+height: 250px;
+border-radius: 20px;
+overflow-y: hidden;
+}
+.card15{
+    position: relative;
+width: 300px;
+height: 250px;
+border-radius: 20px;
+overflow-y: hidden;
+}
+.card16{
+    position: relative;
+width: 300px;
+height: 250px;
+border-radius: 20px;
+overflow-y: hidden;
+}
+.card17{
+    position: relative;
+width: 300px;
+height: 250px;
+border-radius: 20px;
+overflow-y: hidden;
+}
+.card18{
+    position: relative;
+width: 300px;
+height: 250px;
+border-radius: 20px;
+overflow-y: hidden;
+}
+
+.card20{
+    position: relative;
+width: 300px;
+height: 250px;
+border-radius: 20px;
+overflow-y: hidden;
+}
+.card21{
+    position: relative;
+width: 300px;
+height: 250px;
+border-radius: 20px;
+overflow-y: hidden;
+}
+
+h1,h2,h3,h4,h5,h6{
+    overflow-y: hidden;
+}
+
+.footer{
+height: 70px;
+width: 100%;
+border-top: 1px solid rgb(153, 153, 153);
+border-bottom: 1px solid rgb(153, 153, 153);
+margin-top: 100px;
+
+}
+
+.footer ol li{
+    float: left;
+    margin: 0px 15px;
+margin-top: 20px;
+
+}
+.footer a{
+    color: black;
+}
+.footer2{
+    min-height: 500px;
+    width: 100%;
+  border-bottom: 1px solid black;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.footer2 ol li{
+    font-size: 20px;
+}
+.foot1{
+   
+    width: 180px;
+}
+.foot2{
+   
+    width: 300px;
+}
+.foot3{
+   
+    width: 260px;
+}
+.foot4{
+   
+    width: 280px;
+}
+
+.footer3{
+   
+    min-height: 100px;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+   justify-content: space-around;
+    align-items: center;
+}
